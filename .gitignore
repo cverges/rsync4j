@@ -1,0 +1,24 @@
+# Binary files that should generally never be included in git
+*.class
+*.jar
+*.war
+*.ear
+
+# Auto-generated directories
+doc/
+target/
+
+# Standard temporary files that seem to hang around any project
+debug.txt
+*~
+.DS_Store
+.project
+.classpath
+.settings
+.springBeans
+.*.swp
+*.bak
+.metadata
+*.log
+.*_
+.sublime-grunt.cache

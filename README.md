@@ -19,7 +19,7 @@ TBD
 
 ## Copyright and Licensing
 
-Copyright 2015 Sentient Energy, Inc.
+Copyright 2015 Sentient Energy, Inc.  
 Copyright 2015 Chris Verges
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may
